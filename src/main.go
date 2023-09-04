@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"minigrep/api"
+	"minigrep/src/api"
+
 	"os"
 )
 
