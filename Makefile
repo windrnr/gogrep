@@ -1,4 +1,4 @@
-all: build
+all: linux
 
-build:
+linux:
 	go build -o build/gogrep src/main.go
